@@ -1,0 +1,15 @@
+.childLI{
+    background: #FFFFFF;
+    box-shadow: 20px 35px 50px -15px rgba(194, 195, 214, 100);
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    margin: 2px 0;
+    height: 35px;
+    cursor: pointer;
+}
+.isDoneTodo{
+    text-decoration: line-through;
+}
